@@ -4,26 +4,74 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Web Developer
 -----------------------
 
-Hello! My name is Dilshod and I am a passionate Full Stack Web Developer with over 3 years of experience in building and maintaining high-performance web applications. I specialize in leveraging modern web technologies to create scalable, efficient, and user-friendly applications that meet both client and user needs. My journey as a developer has been fueled by a strong desire to constantly learn and adapt to the rapidly changing landscape of web development.
+# 🚀 Dilshod Khaydarov
 
-* 🌍  I'm based in Seoul, South Korea
-* ✉️  You can contact me at [khaydarovdilshod9@gmail.com](mailto:khaydarovdilshod9@gmail.com)
-* 🚀  I'm currently working on [EduSmart Educational App](http://156.67.219.177:4006/)
-* 🧠  I'm learning React-Native
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I love coding
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;3%2B+years+experience;React+%7C+Node+%7C+NestJS;Building+Scalable+Apps" />
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+```ts
+const dilshod = {
+  location: "Seoul, South Korea 🇰🇷",
+  role: "Full Stack Developer",
+  experience: "3+ years",
+  currentlyWorkingOn: "EduSmart Educational Platform",
+  learning: "React Native",
+  openFor: ["Freelance", "Startup", "Collaboration"],
+  passion: "Clean code & scalable systems"
+}
+
+🌐 Connect With Me
+<p align="left"> <a href="mailto:khaydarovdilshod9@gmail.com"> <img src="https://img.shields.io/badge/Gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/DixonKH"> <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/dilshod-khaydarov"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://dev.to/khaydarov01"> <img src="https://img.shields.io/badge/dev.to-0A66C2?style=for-the-badge&logo=dev.to&logoColor=white"/> </a> <a href="https://medium.com/@khaydarovdilshod9"> <img src="https://img.shields.io/badge/Medium-0A66C2?style=for-the-badge&logo=medium&logoColor=white"/> </a> </p>
+
+🛠 Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,nestjs,redux,mongodb,docker,graphql,tailwind,sass,html,css,bootstrap" /> </p>
+
+🚧 Current Project
+🎓 EduSmart Educational Platform
+
+🔗 http://156.67.219.177:4006/
+
+Full LMS system
+
+Role-based authentication
+
+Admin dashboard
+
+REST API (NestJS)
+
+Docker deployment
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/khaydarov01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: white)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-white.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/DixonKH" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: blue)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dilshod-khaydarov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@khaydarovdilshod9" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+<a href="https://www.dev.to/khaydarov01" target="_blank">
+<img src="https://img.shields.io/badge/dev.to-0A66C2?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DixonKH" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dilshod-khaydarov" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@khaydarovdilshod9" target="_blank">
+<img src="https://img.shields.io/badge/Medium-0A66C2?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+</p>
+
+📊 GitHub Analytics
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DixonKH&show_icons=true&theme=tokyonight"/> <img width="48%" src="https://streak-stats.demolab.com?user=DixonKH&theme=tokyonight"/> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DixonKH&layout=compact&theme=tokyonight"/> <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=DixonKH&theme=tokyo-night"/> </p>
+
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/DixonKH/DixonKH/output/github-contribution-grid-snake.svg" /> </p>
 
 ### Badges
 
@@ -46,3 +94,7 @@ Hello! My name is Dilshod and I am a passionate Full Stack Web Developer with ov
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/dixon96"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
+
+👀 Profile Views
+<p> <img src="https://komarev.com/ghpvc/?username=DixonKH&color=0A66C2&style=flat-square"/> </p>
+```
