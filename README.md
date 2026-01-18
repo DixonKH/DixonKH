@@ -44,27 +44,6 @@ REST API (NodeJS)
 
 Docker deployment
 
-
-### Socials
-
-<p align="left">
-<a href="https://www.dev.to/khaydarov01" target="_blank">
-<img src="https://img.shields.io/badge/dev.to-0A66C2?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</a>
-
-<a href="https://github.com/DixonKH" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dilshod-khaydarov" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://medium.com/@khaydarovdilshod9" target="_blank">
-<img src="https://img.shields.io/badge/Medium-0A66C2?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-</p>
-
 📊 GitHub Analytics
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DixonKH&show_icons=true&theme=github_dark"/> <img width="48%" src="https://streak-stats.demolab.com?user=DixonKH&theme=github-dark"/> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DixonKH&layout=compact&theme=github_dark"/> <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=DixonKH&theme=github-dark"/> </p>
 
@@ -75,13 +54,21 @@ Docker deployment
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DixonKH"><img src="https://github-readme-stats.vercel.app/api?username=DixonKH&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DixonKH's GitHub stats" /></a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DixonKH&show_icons=true&theme=dark&cache_seconds=1800"/>
+</p>
 
-<a href="http://www.github.com/DixonKH"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DixonKH&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=DixonKH&theme=dark"/>
+</p>
 
-<a href="http://www.github.com/DixonKH"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DixonKH&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DixonKH&layout=compact&theme=dark"/>
+</p>
 
-<a href="https://github.com/DixonKH" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DixonKH&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DixonKH&theme=github-dark"/>
+</p>
 
 ### Support Me
 
