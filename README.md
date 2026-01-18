@@ -1,74 +1,69 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dilshod
 ===============================================================================================================================
 
-FullStack Web Developer
------------------------
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;3%2B+years+experience;React+%7C+Node+%7C+NestJS;Building+Scalable+Apps" />
 </p>
 
----
+-----------------------
 
-## 👨‍💻 About Me
+Hello! My name is Dilshod and I am a passionate Full Stack Web Developer with over 3 years of experience in building and maintaining high-performance web applications. I specialize in leveraging modern web technologies to create scalable, efficient, and user-friendly applications that meet both client and user needs. My journey as a developer has been fueled by a strong desire to constantly learn and adapt to the rapidly changing landscape of web development.
 
-```ts
-const dilshod = {
-  location: "Seoul, South Korea 🇰🇷",
-  role: "Full Stack Developer",
-  experience: "3+ years",
-  currentlyWorkingOn: "EduSmart Educational Platform",
-  learning: "React Native",
-  openFor: ["Freelance", "Startup", "Collaboration"],
-  passion: "Clean code & scalable systems"
-}
-```
-🌐 Connect With Me
-<p align="left"> <a href="mailto:khaydarovdilshod9@gmail.com"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32"/> </a> <a href="https://github.com/DixonKH"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32"/> </a> <a href="https://www.linkedin.com/in/dilshod-khaydarov"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/> </a> <a href="https://dev.to/khaydarov01"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32"/> </a> <a href="https://medium.com/@khaydarovdilshod9"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32"/> </a> </p>
+* 🌍  I'm based in Seoul, South Korea
+* ✉️  You can contact me at [khaydarovdilshod9@gmail.com](mailto:khaydarovdilshod9@gmail.com)
+* 🚀  I'm currently working on [EduSmart Educational App](http://156.67.219.177:4006/)
+* 🧠  I'm learning React-Native
+* 🤝  I'm open to collaborating on Projects
+* ⚡  I love coding
 
 🛠 Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,nestjs,redux,mongodb,docker,graphql,prisma,postgresql,tailwind,sass,html,css,bootstrap" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,nestjs,redux,mongodb,docker,graphql,prisma,postgresql,neon,tailwind,sass,html,css,bootstrap" /> </p>
 
-🚧 Current Project
-🎓 CRM Educational Platform
 
-🔗 http://156.67.219.177:4006/
+### Socials
 
-Full LMS system
+<p align="left" margin="2px">
 
-Role-based authentication
+<a href="https://www.github.com/DixonKH" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32"/>
+</a>
 
-Admin dashboard
+<a href="https://www.linkedin.com/in/dilshod-khaydarov" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="32" height="32"/>
+</a>
 
-REST API (NodeJS)
+<a href="http://www.medium.com/@khaydarovdilshod9" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32"/>
+</a>
 
-Docker deployment
+</p>
 
-📊 GitHub Analytics
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DixonKH&show_icons=true&theme=github_dark"/> <img width="48%" src="https://streak-stats.demolab.com?user=DixonKH&theme=github-dark"/> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DixonKH&layout=compact&theme=github_dark"/> <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=DixonKH&theme=github-dark"/> </p>
-
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/DixonKH/DixonKH/output/github-contribution-grid-snake.svg" /> </p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DixonKH&show_icons=true&theme=dark&cache_seconds=1800"/>
-</p>
+<a href="https://github.com/DixonKH">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DixonKH&show_icons=true&theme=transparent&bg_color=30,0d1117,161b22&title_color=00f5ff&text_color=ffffff&icon_color=00f5ff&hide_border=true" />
+</a>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=DixonKH&theme=dark"/>
-</p>
+<a href="http://www.github.com/DixonKH">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DixonKH&stroke=ffffff&background=151921&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DixonKH&layout=compact&theme=dark"/>
-</p>
+<a href="https://github.com/DixonKH">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DixonKH&theme=github-dark" />
+</a>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DixonKH&theme=github-dark"/>
-</p>
+
+<a href="https://github.com/DixonKH">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DixonKH&layout=compact&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&hide_border=true" />
+</a>
+
+
+
+
+
 
 ### Support Me
 
@@ -79,7 +74,4 @@ Docker deployment
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/dixon96"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
-
-👀 Profile Views
-<p> <img src="https://komarev.com/ghpvc/?username=DixonKH&color=0A66C2&style=flat-square"/> </p>
 
