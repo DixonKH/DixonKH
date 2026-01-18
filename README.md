@@ -17,7 +17,7 @@ Hello! My name is Dilshod and I am a passionate Full Stack Web Developer with ov
 * ⚡  I love coding
 
 🛠 Tech Stack
-<p> <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,nestjs,redux,mongodb,docker,graphql,prisma,postgresql,neon,tailwind,sass,html,css,bootstrap" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,nestjs,redux,mongodb,docker,graphql,prisma,postgresql,tailwind,sass,html,css,bootstrap" /> </p>
 
 
 ### Socials
