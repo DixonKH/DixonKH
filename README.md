@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Web Developer
 -----------------------
 
-# 🚀 Dilshod Khaydarov
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;3%2B+years+experience;React+%7C+Node+%7C+NestJS;Building+Scalable+Apps" />
 </p>
@@ -24,7 +22,7 @@ const dilshod = {
   openFor: ["Freelance", "Startup", "Collaboration"],
   passion: "Clean code & scalable systems"
 }
-
+```
 🌐 Connect With Me
 <p align="left"> <a href="mailto:khaydarovdilshod9@gmail.com"> <img src="https://img.shields.io/badge/Gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/DixonKH"> <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/dilshod-khaydarov"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://dev.to/khaydarov01"> <img src="https://img.shields.io/badge/dev.to-0A66C2?style=for-the-badge&logo=dev.to&logoColor=white"/> </a> <a href="https://medium.com/@khaydarovdilshod9"> <img src="https://img.shields.io/badge/Medium-0A66C2?style=for-the-badge&logo=medium&logoColor=white"/> </a> </p>
 
@@ -97,4 +95,4 @@ Docker deployment
 
 👀 Profile Views
 <p> <img src="https://komarev.com/ghpvc/?username=DixonKH&color=0A66C2&style=flat-square"/> </p>
-```
+
