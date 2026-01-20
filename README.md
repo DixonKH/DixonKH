@@ -47,9 +47,20 @@ Hello! My name is Dilshod and I am a passionate Full Stack Web Developer with ov
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DixonKH&show_icons=true&theme=transparent&bg_color=30,0d1117,161b22&title_color=00f5ff&text_color=ffffff&icon_color=00f5ff&hide_border=true" />
 </a>
 
-<a href="http://www.github.com/DixonKH">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DixonKH&stroke=ffffff&background=151921&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+<img src="https://streak-stats.demolab.com?user=DixonKH&theme=dark" />
+
+<img src="https://streak-stats.demolab.com?
+user=DixonKH
+&background=0d1117
+&ring=00f5ff
+&fire=00f5ff
+&currStreakNum=ffffff
+&currStreakLabel=00f5ff
+&sideNums=ffffff
+&sideLabels=ffffff
+&dates=ffffff
+&hide_border=true"
+/>
 
 <a href="https://github.com/DixonKH">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DixonKH&theme=github-dark" />
