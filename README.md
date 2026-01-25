@@ -49,19 +49,6 @@ Hello! My name is Dilshod and I am a passionate Full Stack Web Developer with ov
 
 <img src="https://streak-stats.demolab.com?user=DixonKH&theme=dark" />
 
-<img src="https://streak-stats.demolab.com?
-user=DixonKH
-&background=0d1117
-&ring=00f5ff
-&fire=00f5ff
-&currStreakNum=ffffff
-&currStreakLabel=00f5ff
-&sideNums=ffffff
-&sideLabels=ffffff
-&dates=ffffff
-&hide_border=true"
-/>
-
 <a href="https://github.com/DixonKH">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DixonKH&theme=github-dark" />
 </a>
