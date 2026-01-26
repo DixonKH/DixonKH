@@ -11,7 +11,7 @@ Hello! My name is Dilshod and I am a passionate Full Stack Web Developer with ov
 
 * 🌍  I'm based in Seoul, South Korea
 * ✉️  You can contact me at [khaydarovdilshod9@gmail.com](mailto:khaydarovdilshod9@gmail.com)
-* 🚀  I'm currently working on [EduSmart Educational App](http://156.67.219.177:4006/)
+* 🚀  I'm currently working on [CRM Educational Website]
 * 🧠  I'm learning React-Native
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I love coding
